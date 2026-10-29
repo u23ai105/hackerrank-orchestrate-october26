@@ -1,0 +1,1 @@
+After every user prompt and assistant response in this workspace, append the timestamp, [ANTIGRAVITY - USER] prompt, and a concise summary or full text of [ANTIGRAVITY - ASSISTANT] response to transcripts/antigravity_execution_chat.md.
